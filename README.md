@@ -30,4 +30,4 @@ Figma design URL: https://www.figma.com/file/U4HPeiSDE26307wORCYMAx/Sellify?node
 
 ## Figma Snapshot: <br>
 
-![image](/uploads/90960a7c235f7ff0ac1eb6f6247772d4/image.png)
+![image](https://user-images.githubusercontent.com/36777571/197904405-89a0c808-20bc-4db5-8f4c-0e934071b127.png)
