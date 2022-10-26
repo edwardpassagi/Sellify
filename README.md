@@ -1,6 +1,6 @@
 # Final Project Proposal
 
-This repo contains the implementation for CS 242 Final Project (**Sellify**).<br>
+This repo contains the implementation for **Sellify**.<br>
 
 ## Requirements:
 
