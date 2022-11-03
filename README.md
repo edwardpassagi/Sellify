@@ -13,6 +13,17 @@ There are **2 main** components within this project:
 1. Frontend (screens, etc.) that is stored in the project root directory with its own npm service for frontend (_excluding `/server`_)
 2. Backend services (APIs, core logic) that are stored inside /server directory, with another npm service for backend.
 
+## Running the project:
+
+### Frontend
+
+Run expo on the project's root directory
+
+### Backend
+
+1. Navigate to _/server_
+2. Run `npm start`
+
 ## Testings:
 
 ### Frontend (React Native)
@@ -21,7 +32,7 @@ Manual tests are available within this project's Wiki page
 
 ### Backend (Express.js)
 
-1. Navigate to /server
+1. Navigate to _/server_
 2. Run `npm test`
 
 ### Figma Design
